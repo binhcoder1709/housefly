@@ -1,0 +1,28 @@
+:where(.css-dev-only-do-not-override-dkbvqv).ant-tabs
+  .ant-tabs-tab
+  .ant-tabs-tab-btn {
+  color: #000;
+}
+:where(.css-dev-only-do-not-override-dkbvqv).ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn{
+  color: #00ff00;
+}
+:where(.css-dev-only-do-not-override-dkbvqv).ant-tabs .ant-tabs-tab .ant-tabs-tab-btn:hover
+{
+  color: #00ff00;
+}
+:where(.css-dev-only-do-not-override-dkbvqv).ant-tabs .ant-tabs-ink-bar
+{
+  background-color: #00ff00;
+}
+table,
+tr,
+th,
+td,
+thead,
+tbody {
+  border: 1px solid black;
+}
+table {
+  width: 100%;
+  text-align: center;
+}
